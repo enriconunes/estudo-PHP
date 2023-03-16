@@ -1,5 +1,6 @@
 # estudo-PHP
-Primeiro projeto feito com PHP - Aplicação Help Desk
+Primeiro projeto feito com PHP - Aplicação Help Desk.
+
 A aplicação possui as seguintes funcionalidades:
 - Validar login.
 - Ao validar login, é possível fazer uma solicitação de assistência a um suposto técnico de informática, além de poder visualizar as solicitações que já foram feitas.
