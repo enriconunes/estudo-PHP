@@ -1,4 +1,4 @@
-# estudo-PHP
+# estudo-PHP-AppHelpDesk
 Primeiro projeto feito com PHP - Aplicação Help Desk.
 
 A aplicação possui as seguintes funcionalidades:
